@@ -13,11 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `GameInsight`,
-      href: "https://github.com/morethanmin/morethan-log",
-    },
-    {
-      name: `Zero-G Revolution`,
-      href: "https://store.steampowered.com/app/1504630/ZeroG_Revolution/",
+      href: "http://mywebpo.eba-dpmwge7s.ap-northeast-2.elasticbeanstalk.com/mainsection",
     },
   ],
   // blog setting (required)
