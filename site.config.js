@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "YZPocket",
+    name: "YZPocket(Fred, KIM)",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Backend Developer",
-    bio: "No pain, No gain.",
+    bio: "No pain, No gain. I do share Happiness and Passion.",
     email: "admin@yzpocket.com",
     linkedin: "inyong-kim-525545284",
     github: "yzpocket",
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Share WISE ideas from my POCKET",
-    description: "Welcome to YZPocket's dev_blog!",
+    title: "Rummage wise thoughs from my pocket.",
+    description: "Welcome to blog.yzpocket!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
