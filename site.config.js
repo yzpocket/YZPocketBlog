@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "YZPocket<br />Fred, INYONG KIM",
+    name: "Fred, INYONG KIM",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Backend Developer",
-    bio: "No pain, No gain. <br />I do share Happiness and Passion.",
+    bio: "I do love to share my happiness and passion. Thank you all. 😎",
     email: "admin@yzpocket.com",
     linkedin: "inyong-kim-525545284",
     github: "yzpocket",
