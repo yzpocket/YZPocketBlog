@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Rummage wise thoughs from my pocket.",
+    title: "Rummage wise ideas from my pocket",
     description: "Welcome to blog.yzpocket!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
