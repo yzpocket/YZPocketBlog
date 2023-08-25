@@ -2,6 +2,6 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "build": {
-    "timeout": 600
+    "timeout": 3600
   }
 }
