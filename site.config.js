@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `GameInsight`,
-      href: "http://mywebpo.eba-dpmwge7s.ap-northeast-2.elasticbeanstalk.com/mainsection",
+      name: `Zero-G Revolution`,
+      href: "https://store.steampowered.com/app/1504630/ZeroG_Revolution/",
     },
   ],
   // blog setting (required)
