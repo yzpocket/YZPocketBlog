@@ -1,10 +1,27 @@
-# morethan-log
+# Fred's development Blog
+* 개발 블로그 소스파일 저장소 및 배포페이지
 
-<img width="1715" alt="image" src="https://user-images.githubusercontent.com/72514247/209824600-ca9c8acc-6d2d-4041-9931-43e34b8a9a5f.png">
+## 🖥️ 저장소 소개
+* 이상민님의 Next.js 기반 오픈소스 블로그 활용
+* 단순 블로그 용도 뿐만 아니라, 선배 개발자들의 코드를 살펴보고, 기능을 넣어보는 등 관심에서 시작된 블로그 입니다.
+* 글쓰고 기록하는 것을 좋아하는 저에게 Notion database를 활용한 블로깅을 처리하기 위해서 선택했습니다.
+* Notion-Github-Vercel 흐름으로 배포가 진행되며 현재는 정적 페이지 배포로 매일 수동으로만 배포됩니다.
+* 추후 GA를 활용한 트래픽추적 등 실험적, 학습적 기능을 시도하고 추가해보자 합니다.
 
-Next.js static blog using Notion as a Content Management System (CMS). Supports both Blog format Post as well as Page format for Resume. Deployed using Vercel.
+### 🧑‍🤝‍🧑 맴버구성
+- 김인용
+- folk from Lee Sang-min developer
 
-[Demo Blog](https://morethan-log.vercel.app) | [Demo Resume](https://morethan-log.vercel.app/resume)
+### ⚙️ 개발 환경
+- **MainLanguage** : `JavaScript`
+- **IDE** : IntelliJ IDEA Ultimate
+- **Framework** : Next.js Framework
+- **Database** : Notion Database
+- **SERVER** : Github page to Vercel platform
+
+### 👋🏻 Contact
+- **Email** : admin@yzpocket.com
+- **Blog** : https://blog.yzpocket.com/
 
 ## Features
 
@@ -28,8 +45,9 @@ Next.js static blog using Notion as a Content Management System (CMS). Supports 
 - Your profile information can be updated through Config. (`site.config.js`)
 - Plugins support includes, Google Analytics, Search Console and also Commenting using Github Issues(Utterances) or Cusdis.
 
-## Getting Started
 
+## Getting Started
+<details>
 1. Star this repo.
 2. [Fork](https://github.com/morethanmin/morethan-log/fork) the repo to your Profile.
 3. Duplicate [this Notion template](https://quasar-season-ed5.notion.site/12c38b5f459d4eb9a759f92fba6cea36?v=2e7962408e3842b2a1a801bf3546edda), and Share to Web.
@@ -70,7 +88,7 @@ Sponsors template:
 <p>
 <a href="https://github.com/siyeons"><img src="https://avatars.githubusercontent.com/u/35549653?v=4" width="50px" alt="siyeons" /></a>&nbsp;&nbsp;
 </p>
-
+</details>
 ## License
 
 The [MIT License](LICENSE).
