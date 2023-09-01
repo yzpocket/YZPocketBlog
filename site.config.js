@@ -1,14 +1,14 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Fred, INYONG KIM",
+    name: "Fred_example",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Backend Developer",
     bio: "I do love to share my happiness and passion. Thank you all. 😎",
     email: "admin@yzpocket.com",
     linkedin: "inyong-kim-525545284",
     github: "yzpocket",
-    instagram: "in.d.elight",
+    instagram: "Fred_example",
   },
   projects: [
     {
@@ -53,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "morethanmin/morethan-log",
+      repo: "yzpocket/yzpocketblog",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
