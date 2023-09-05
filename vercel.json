@@ -1,4 +1,9 @@
 {
+  "build": {
+    "env": {
+      "CACHE": "true"
+    }
+  },
   "cleanUrls": true,
   "trailingSlash": false
 }
