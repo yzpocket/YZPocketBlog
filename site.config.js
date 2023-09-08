@@ -15,12 +15,16 @@ const CONFIG = {
       name: `Zero-G Revolution`,
       href: "https://store.steampowered.com/app/1504630/ZeroG_Revolution/",
     },
+    {
+      name: `Port safety training VR`,
+      href: "https://www.youtube.com/watch?v=I2-QLdMu-08",
+    },
   ],
   // blog setting (required)
   blog: {
     title: "Rummage wise ideas from my pocket",
-    description: "Welcome to blog.yzpocket!",
-    theme: "auto", // ['light', 'dark', 'auto']
+    description: "Welcome to citeFred's Dev-blog!",
+    theme: "light", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
