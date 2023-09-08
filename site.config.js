@@ -12,12 +12,24 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Zero-G Revolution`,
+      name: `Zero-G Revolution VR`,
       href: "https://store.steampowered.com/app/1504630/ZeroG_Revolution/",
     },
     {
       name: `Port safety training VR`,
       href: "https://www.youtube.com/watch?v=I2-QLdMu-08",
+    },
+    {
+      name: `Mentoring, AR,VR SEOUL EXPO XR Ludaga`,
+      href: "https://www.youtube.com/watch?v=8OTrWyAKC50",
+    },
+    {
+      name: `Exterior perspective Realtime 3D by UE3`,
+      href: "https://www.youtube.com/watch?v=2ZW_R4Ujiqk",
+    },
+    {
+      name: `Interior perspective Realtime 3D by UE3`,
+      href: "https://www.youtube.com/watch?v=V9UnJyD4a9I",
     },
   ],
   // blog setting (required)
