@@ -12,23 +12,23 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Zero-G Revolution VR`,
+      name: `VR Advanture, STEAM - Zero-G Revolution by UE4`,
       href: "https://store.steampowered.com/app/1504630/ZeroG_Revolution/",
     },
     {
-      name: `Port safety training VR`,
+      name: `Education Content, Port safety training VR by UE4`,
       href: "https://www.youtube.com/watch?v=I2-QLdMu-08",
     },
     {
-      name: `Mentoring, AR,VR SEOUL EXPO XR Ludaga`,
+      name: `Mentoring, XR Ludaga - VR, AR SEOUL EXPO `,
       href: "https://www.youtube.com/watch?v=8OTrWyAKC50",
     },
     {
-      name: `Exterior perspective Realtime 3D by UE3`,
+      name: `Botanical garden, Exhibits VR Exterior Perspective by UE4`,
       href: "https://www.youtube.com/watch?v=2ZW_R4Ujiqk",
     },
     {
-      name: `Interior perspective Realtime 3D by UE3`,
+      name: `Botanical garden, Exhibits VR Interior Perspective by UE4`,
       href: "https://www.youtube.com/watch?v=V9UnJyD4a9I",
     },
   ],
@@ -36,7 +36,7 @@ const CONFIG = {
   blog: {
     title: "Rummage wise ideas from my pocket",
     description: "Welcome to citeFred's Dev-blog!",
-    theme: "light", // ['light', 'dark', 'auto']
+    theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
